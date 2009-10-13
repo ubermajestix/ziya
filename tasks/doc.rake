@@ -1,7 +1,7 @@
 # $Id$
 require 'rake/rdoctask'
-gem 'darkfish-rdoc'
-require 'darkfish-rdoc'
+# gem 'darkfish-rdoc'
+# require 'darkfish-rdoc'
 
 
 namespace :doc do

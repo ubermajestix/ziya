@@ -20,7 +20,7 @@ PROJ.rubyforge_name = nil
 PROJ.exclude = %w(tmp$ bak$ ~$ CVS .svn/ ^pkg/ ^doc/ .git/)
 PROJ.release_name = ENV['RELEASE']
 PROJ.history_file = 'History.txt'
-PROJ.manifest_file = 'Manifest.txt'
+#PROJ.manifest_file = 'Manifest.txt'
 PROJ.readme_file = 'README.txt'
 
 # Rspec
